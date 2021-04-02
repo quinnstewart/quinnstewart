@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @quinnstewart
 - 👀 I’m interested in neuroscience
 - 🌱 I’m currently learning python and everything else
-- 💞️ I’m looking to collaborate on currently idk
+- 💞️ I’m looking to collaborate on ultrasound neuromodulation, animal behavior (headfixed 2afc tasks, visuo-motor decision making), International Brain Lab
 - 📫 How to reach me message me here!
 
 <!---
